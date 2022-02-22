@@ -26,6 +26,4 @@ Bir adet controller yazınız(Tek controller yeterli). Bu controller içerisinde
 14. Adres silinebilmelidir. 
 15. Id den adres bilgisi edinilebilmelidir. 
  
-### NOT:  
-- Address entitysi hariç diğer entitylerin servislerinde entity kullanabilirsiniz. Yani metot parametresi için dto, return için başka bir dto kullanmanıza gerek yok.  
-- Address kaydeden dönen vs yerlerde mapper ya da converterlar kullanarak DTO ile veri akışını sağlayınız.
+
