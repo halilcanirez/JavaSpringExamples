@@ -1,6 +1,3 @@
-# Bitirme Projesi
-
-Projenin Konusu:
 Bir marketteki ürünlerin satış fiyatlarına göre son fiyatlarını belirleyen servisin Spring Boot Framework
 kullanılarak yazılması ve isteğe bağlı olarak önyüzünün yazılması.
 
@@ -37,13 +34,4 @@ durumunda tüm işlemler geri alınmalıdır.
 - Ürün türü, fiyatı, adı gibi alanlar boş olamaz.
 - Ürün fiyatı sıfır ya da negatif olamaz.
 - KDV oranı negatif olamaz.
-> Authentication:
-- Güvenli endpointler kullanınız. (jwt, bearer vs. )
-> Response:
-- Başarılı ve başarısız responselar için modeller tanımlayın ve bunları kullanın.
-> Dökümantasyon:
-- Open API Specification (Swagger tercih sebebi)
-> Exception Handling:
-- Hatalı işlemler için doğru hata kodlarının dönüldüğünden emin olunuz.
-> Test:
-- Unit ve integration testleri yazınız. 
+
