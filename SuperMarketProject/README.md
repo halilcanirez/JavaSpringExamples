@@ -1,5 +1,5 @@
 Bir marketteki ürünlerin satış fiyatlarına göre son fiyatlarını belirleyen servisin Spring Boot Framework
-kullanılarak yazılması ve isteğe bağlı olarak önyüzünün yazılması.
+kullanılarak yazılması 
 
 > **Gereksinimler:**
 
