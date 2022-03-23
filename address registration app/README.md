@@ -1,4 +1,3 @@
-# Case2
 
 ## Adres Kayıt Sistemi:  
 Bir adreste bulunması gereken alanlar:  
@@ -9,7 +8,6 @@ Bir adreste bulunması gereken alanlar:
 -  Sokak 
 -  Kapı No  
 -  Daire No 
-Bir adet controller yazınız(Tek controller yeterli). Bu controller içerisinde aşağıdaki işlemler yapılabilmelidir.  
 1. Ülke kaydedilebilmelidir. 
 2. Ülke kodundan ülke sorgulanabilmelidir. 
 3. Şehir kaydedilebilmelidir. 
@@ -26,6 +24,4 @@ Bir adet controller yazınız(Tek controller yeterli). Bu controller içerisinde
 14. Adres silinebilmelidir. 
 15. Id den adres bilgisi edinilebilmelidir. 
  
-### NOT:  
-- Address entitysi hariç diğer entitylerin servislerinde entity kullanabilirsiniz. Yani metot parametresi için dto, return için başka bir dto kullanmanıza gerek yok.  
-- Address kaydeden dönen vs yerlerde mapper ya da converterlar kullanarak DTO ile veri akışını sağlayınız.
+
